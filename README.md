@@ -5,6 +5,8 @@ This project involved analyzing school performance based on academic scores (mat
 
 ## Data Acquisition
 The dataset was sourced from multiple school performance databases containing variables like student scores, school budgets, enrollment, and more. Data was integrated into a single comprehensive dataset through the merging of school and student data using Python’s Pandas library.
+``` python
+school_data_complete = pd.merge(student_data, school_data, how="left", on=["school_name", "school_name"])
 
 ## Data Preparation
 ### Data Cleaning
