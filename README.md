@@ -29,4 +29,19 @@ With the data cleaned and manipulated, I used advanced analytics to extract key 
 * A **positive correlation** was found between **school spending** and **student performance**, especially in math scores. This implies that schools with higher budgets tend to have better performance in math, possibly due to more resources available for educational tools, extracurricular activities, and teacher development.
 * This suggests that more funding can improve the learning environment and student opportunities, but other factors like teaching quality and student backgrounds also play a role.
 3. School Size:
-* 
+* **Smaller** and **medium-sized** schools generally performed better than larger schools in both math and reading. This finding points to the potential advantages of smaller student-teacher ratios, where students may receive more personalized attention, fostering a more supportive and focused learning environment.
+* Larger schools may have challenges with maintaining individual student engagement, which could contribute to lower overall performance.
+
+## Insights & Recommendations:
+1. Targeted Funding:
+* Schools with **lower passing rates**, particularly **larger schools**, would benefit from increased investment in educational resources and programs.
+* Schools with **lower scores** in math and reading should receive targeted funding for improving teaching resources, specialized support for struggling students, and enrichment programs.
+2. Smaller Class Sizes:
+* Given that **smaller schools** tend to show better academic performance, schools should consider strategies that allow for smaller class sizes or more personalized instruction.
+* Reducing class sizes in subjects like math, where students are performing at a lower rate, could help close the performance gap and boost overall passing rates.
+3. Curriculum Adjustments:
+* Based on the **lower passing rate** in math, schools should prioritize enhancing math curriculum and instructional methods. Implementing strategies such as tutoring programs, after-school workshops, or incorporating more hands-on activities can help improve student performance in math.
+
+## Challenges Encountered:
+
+## Opportunities for Improvement
