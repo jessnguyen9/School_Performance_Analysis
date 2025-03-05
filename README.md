@@ -32,6 +32,7 @@ With the data cleaned and manipulated, I used advanced analytics to extract key 
 3. School Size:
 * **Smaller** and **medium-sized** schools generally performed better than larger schools in both math and reading. This finding points to the potential advantages of smaller student-teacher ratios, where students may receive more personalized attention, fostering a more supportive and focused learning environment.
 * Larger schools may have challenges with maintaining individual student engagement, which could contribute to lower overall performance.
+  
 ![PERFORMANCE COMPARISON](https://github.com/user-attachments/assets/a23564e0-6fed-4de8-806c-b62911e544f8)
 ## Insights & Recommendations:
 1. Targeted Funding:
