@@ -42,6 +42,13 @@ With the data cleaned and manipulated, I used advanced analytics to extract key 
 3. Curriculum Adjustments:
 * Based on the **lower passing rate** in math, schools should prioritize enhancing math curriculum and instructional methods. Implementing strategies such as tutoring programs, after-school workshops, or incorporating more hands-on activities can help improve student performance in math.
 
-## Challenges Encountered:
+## Challenges:
+* **Missing or Incomplete Data:** Some recods had missing student scores, requiring imputation or removal to maintain data integrity.
+* **Data Consistency Issues:** School names and budget data needed standardization to ensure accurate merging and aggregation.
+* **Handling Large Data Sets:** Processing nealry 40,000 student records required optimizing calculations for efficiency.
+* **Interpreting Correlations:** While trends were observed between school funding and performance, external factors like teaching quality and student demographics made causation unclear.
 
-## Opportunities for Improvement
+## What Could Have Been Done Differently?
+* **Deeper Analysis on Teaching Quality:** Incorporating teacher-to-student ratios or teacher experience data could provide more insights into performance differences.
+* **Longitudinal Data:** Tracking performance over multiple years could show trends and help identify long-term impacts of funding or policy changes.
+* **Student-Level Factors:** Analyzing demographic factors, attendance rates, or extracurricular activities could add depth to the insights.
