@@ -25,6 +25,7 @@ With the data cleaned and manipulated, I used advanced analytics to extract key 
 1. Overall Performance:
 * The overall passing rate for math and reading combined is **65.17%**, which indicates that a significant portion of students is struggling to meet the passing criteria in both subjects.
 * **74.98%** of students passed math, while 85.81% passed reading. This suggests that students generally perform better in reading compared to math, and that more support and resources on math may be necessary to improve student outcomes in that subject.
+
 ![PASSING RATES BY SUBJECTS](https://github.com/user-attachments/assets/84ff5054-6f8d-4ccb-aa1e-2965b0a62319)
 2. School Spending:
 * A **positive correlation** was found between **school spending** and **student performance**, especially in math scores. This implies that schools with higher budgets tend to have better performance in math, possibly due to more resources available for educational tools, extracurricular activities, and teacher development.
